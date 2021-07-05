@@ -5,9 +5,9 @@ Be exited!
 
 ## Project 1 
 *Just some exercises which we should solve for a course at University*
-### Exercise 1 - [ ]
+### Exercise 1 - []
 
-### Exercise 2 - [ ]
+### Exercise 2 - []
 
 
 
