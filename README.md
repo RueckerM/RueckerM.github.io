@@ -1,6 +1,6 @@
 # Welcome to my page
 
-**About:** My name is Maximilian, student of Mathematics at University Ulm. Here on this site some nice projects should grow, dealing with Data Science using R and/or Python.
+**About:** My name is Maximilian, student of Mathematics at Ulm University. Here on this site some nice projects should grow, dealing with Data Science using R and/or Python.
 Be exited!
 
 ## Project 1 
