@@ -4,7 +4,7 @@
 Be exited!
 
 ## Project 1 
-*Just some exercises which we should solve for a course at University*
+The first Project is dealing with a Data Science course from University i am dealing with right now.
 ### Exercise 1
 
 ### Exercise 2
