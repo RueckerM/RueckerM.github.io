@@ -1,0 +1,67 @@
+---
+title: "Siberian tiger"
+author: "Maximilian Rücker"
+date: "2021/07/10"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+
+
+# Picture of siberian Tiger
+
+
+```{r echo=FALSE, out.height=450, out.width= 2000}
+knitr::include_graphics("images/P.t.altaica_Tomak_Male(1).jpg")
+```
+???
+* Notiz an mich: Auf dem Bild sieht man einen sibirischen Tiger.
+* Frage an Albert: Warum kann man HTMl dateien nicht einfach kopieren? Bzw warum wird die datei umformatiert wenn man es kopiert
+
+
+---
+# Some facts
+
+* native to the Russian Far East, Northeast China
+--
+
+* 2015' population amount: ~500
+--
+
+* Male average weight: 215.3 kg
+--
+
+* Female average weight: 137.5 kg 
+
+
+```{r echo=FALSE, out.height=300, out.width= 1500}
+knitr::include_graphics("images/Far_Eastern_in_Russia.svg")
+```
+
+---
+# Comparison tiger vs. lion (selected species)
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(tidyverse)
+library(knitr)
+comp_tib <- tibble(
+  species = c("tiger", "lion"),
+  size_male = c("331–550 lbs", "200-670"),
+  size_female = c("243–401 lbs", "140-370"),
+  speed = c("45-50 mph", "30-40 mph"),
+  life_span = c("13.5 years in wild", "17.5 years in wild")
+)
+comp_tib %>%knitr::kable()
+```
+
+
+
+
+---
+# Sources:
+- [Siberian tiger](https://en.wikipedia.org/wiki/Siberian_tiger)
+
+- [Lion vs tiger](https://www.diffen.com/difference/Lion_vs_Tiger)
