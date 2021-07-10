@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/RueckerM/RueckerM.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**About:** My name is Maximilian, student of Mathematics at Ulm University. Here on this site some nice projects should grow, dealing with Data Science using R and/or Python.
+Be exited!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 1 
+The first Project is dealing with a Data Science course from University, which i am currently attending.
 
-### Markdown
+* Click [here](C:\Users\Maximilian Rücker\Documents\Studium\Studium\Meine Website\RueckerM.github.io\Projekt 1\Exercises.html) for some dummy markdown report in RStudio.
+* Click [here](C:\Users\Maximilian Rücker\Documents\Studium\Studium\Master\Semester VIII\Wima Praktikum 2\Session12\hw12-team03\FancyPres1.html) for a dummy presentation about the **siberian tiger**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Exercise 1
 
-```markdown
-Syntax highlighted code block
+### Exercise 2
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RueckerM/RueckerM.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
